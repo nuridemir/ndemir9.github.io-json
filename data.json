@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Recipe page",
+        "desc": "A figma file we use to practice HTML5, CSS3",
+        "source": "devchallenges.io",
+        "img": "repicePageIMG",
+        "technology": [
+            "HTML5",
+            "CSS3"
+        ],
+        "sourceCode": "https://github.com/ndemir9/devchallenges-frontend/tree/main/05-recipe-page",
+        "demo": "https://ndemir9.github.io/devchallenges-frontend/05-recipe-page"
+    },
+    {
+        "title": "Interior Consultant",
+        "desc": "A figma file we use to practice HTML5, CSS3, JavaScript",
+        "source": "devchallenges.io",
+        "img": "interiorConsultantIMG",
+        "technology": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ],
+        "sourceCode": "https://github.com/ndemir9/devchallenges-frontend/tree/main/04-interior-consultant",
+        "demo": "https://ndemir9.github.io/devchallenges-frontend/04-interior-consultant"
+    },
+    {
+        "title": "Button components",
+        "desc": "A figma file we use to practice React.js",
+        "source": "devchallenges.io",
+        "img": "buttonComponentsIMG",
+        "technology": [
+            "React.js"
+        ],
+        "sourceCode": "https://github.com/ndemir9/button-components",
+        "demo": "https://clever-croissant-7f2318.netlify.app/"
+    },
+    {
+        "title": "My Gallery",
+        "desc": "A figma file we use to practice HTML5, CSS3",
+        "source": "devchallenges.io",
+        "img": "myGalleryIMG",
+        "technology": [
+            "HTML5",
+            "CSS3"
+        ],
+        "sourceCode": "https://github.com/ndemir9/devchallenges-frontend/tree/main/02-my-gallery",
+        "demo": "https://ndemir9.github.io/devchallenges-frontend/02-my-gallery"
+    },
+    {
+        "title": "404 Not Found",
+        "desc": "A figma file we use to practice HTML5, CSS3",
+        "source": "devchallenges.io",
+        "img": "notFoundIMG",
+        "technology": [
+            "HTML5",
+            "CSS3"
+        ],
+        "sourceCode": "https://github.com/ndemir9/devchallenges-frontend/tree/main/01-404-not-found-master",
+        "demo": "https://ndemir9.github.io/devchallenges-frontend/01-404-not-found-master"
+    }
+]
