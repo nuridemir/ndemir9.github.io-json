@@ -5,8 +5,7 @@
         "source": "https://valorant-api.com/",
         "img": "https://ndemir9.github.io/ndemir9.github.io-json/assets/img/valorant-ability-puzzle.png",
         "technology": [
-            "HTML5",
-            "CSS3"
+            "React.js"
         ],
         "sourceCode": "https://github.com/ndemir9/valorant-ability-puzzle",
         "demo": "https://main--symphonious-cannoli-7762bf.netlify.app/"
