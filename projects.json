@@ -2,12 +2,12 @@
     {
         "title": "Valorant Ability Puzzle",
         "desc": "The test where we try to find the abilities of the characters in valorant (computer game).",
-        "source": "https://valorant-api.com/",
-        "img": "https://ndemir9.github.io/ndemir9.github.io-json/assets/img/valorant-ability-puzzle.png",
         "technology": [
             "React.js"
         ],
+        "source": "https://valorant-api.com/",
         "sourceCode": "https://github.com/ndemir9/valorant-ability-puzzle",
-        "demo": "https://main--symphonious-cannoli-7762bf.netlify.app/"
+        "demo": "https://main--symphonious-cannoli-7762bf.netlify.app/",
+        "img": "https://user-images.githubusercontent.com/73329877/250831081-acb4f87d-39b7-4ba5-88f4-fe5dca81ee86.PNG"
     }
 ]

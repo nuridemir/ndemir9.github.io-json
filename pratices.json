@@ -1,9 +1,21 @@
 [
     {
+        "title": "My Team Page",
+        "desc": "A figma file we use to practice HTML5, CSS3",
+        "technology": [
+            "HTML5",
+            "CSS3"
+        ],
+        "img": "https://user-images.githubusercontent.com/73329877/261043959-65bac178-f9b2-4eeb-b395-7117c4cac11d.png",
+        "sourceCode": "https://github.com/ndemir9/devchallenges.io-my-team-pagee",
+        "demo": "https://ndemir9.github.io/devchallenges.io-my-team-page/",
+        "source": "https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U"
+    },
+    {
         "title": "Edie homepage",
-        "desc": "Devchallenges.io challenge.",
+        "desc": "A figma file we use to practice HTML5, CSS3",
         "source": "https://devchallenges.io/challenges/xobQBuf8zWWmiYMIAZe0",
-        "img": "https://devchallenges.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fdevchallenges-1234.appspot.com%2Fo%2FchallengesDesigns%252FEdieHomageThumbnail.png%3Falt%3Dmedia%26token%3D72c573b5-6389-425c-b947-de63f0f5b2ef&w=750&q=75",
+        "img": "https://user-images.githubusercontent.com/73329877/261003907-19a27215-0cf5-456c-ac48-a0875dfb50eb.png",
         "technology": [
             "HTML5",
             "CSS3",
@@ -14,9 +26,9 @@
     },
     {
         "title": "QR code component",
-        "desc": "Frontend Mentor challenge.",
+        "desc": "A figma file we use to practice HTML5, CSS3",
         "source": "https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H",
-        "img": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/cybxdhr4wewlscvco9dd.jpg",
+        "img": "https://user-images.githubusercontent.com/73329877/261045892-fd9f79fd-5486-44d5-9744-5b95bdaa0589.jpg",
         "technology": [
             "HTML5",
             "CSS3"
@@ -28,7 +40,7 @@
         "title": "404 Not Found",
         "desc": "A figma file we use to practice HTML5, CSS3",
         "source": "https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY",
-        "img": "https://devchallenges.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fdevchallenges-1234.appspot.com%2Fo%2FchallengesDesigns%252F404PageThumbnail.png%3Falt%3Dmedia%26token%3D81f7c567-c0bc-446f-a549-07eeda31c5ef&w=750&q=75",
+        "img": "https://user-images.githubusercontent.com/73329877/247981435-cd62bcb3-2130-49ab-9c32-f3ce9534eb57.png",
         "technology": [
             "HTML5",
             "CSS3"
@@ -40,7 +52,7 @@
         "title": "My Gallery",
         "desc": "A figma file we use to practice HTML5, CSS3",
         "source": "https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I",
-        "img": "https://devchallenges.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fdevchallenges-1234.appspot.com%2Fo%2FchallengesDesigns%252FGalleryThumbnail.png%3Falt%3Dmedia%26token%3D92894792-41d1-4d99-8cbb-e828322c87fd&w=750&q=75",
+        "img": "https://user-images.githubusercontent.com/73329877/247982439-a52d777e-7b41-4210-be05-97623981054a.png",
         "technology": [
             "HTML5",
             "CSS3"
@@ -52,7 +64,7 @@
         "title": "Button components",
         "desc": "A figma file we use to practice React.js",
         "source": "https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY",
-        "img": "https://devchallenges.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fdevchallenges-1234.appspot.com%2Fo%2FchallengesDesigns%252FButtonThumbnail.png%3Falt%3Dmedia%26token%3D3ddbedcf-a08b-4144-928f-e551b4bcee80&w=750&q=75",
+        "img": "https://user-images.githubusercontent.com/73329877/247980075-981df91b-327b-4b90-806a-eb5ff1c4b2c7.png",
         "technology": [
             "React.js"
         ],
@@ -63,7 +75,7 @@
         "title": "Interior Consultant",
         "desc": "A figma file we use to practice HTML5, CSS3, JavaScript",
         "source": "https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb",
-        "img": "https://devchallenges.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fdevchallenges-1234.appspot.com%2Fo%2FchallengesDesigns%252FinteriorConsultantThumbnail.png%3Falt%3Dmedia%26token%3Dfb5f8229-8eb9-4d70-b0d4-fbd2829a0cf0&w=750&q=75",
+        "img": "https://user-images.githubusercontent.com/73329877/247983399-b660fa76-686c-4e3c-b57d-51a4054061ff.png",
         "technology": [
             "HTML5",
             "CSS3",
@@ -76,7 +88,7 @@
         "title": "Recipe page",
         "desc": "A figma file we use to practice HTML5, CSS3",
         "source": "https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht",
-        "img": "https://devchallenges.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fdevchallenges-1234.appspot.com%2Fo%2FchallengesDesigns%252FrecipeBlogThumbnail.png%3Falt%3Dmedia%26token%3D2d696d3c-a8cb-4c7c-907b-561ae1144cc9&w=750&q=75",
+        "img": "https://user-images.githubusercontent.com/73329877/247984296-6f2bf01f-752a-4249-b14a-d4e87e631383.png",
         "technology": [
             "HTML5",
             "CSS3"
