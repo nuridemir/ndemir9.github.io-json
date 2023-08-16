@@ -1,5 +1,18 @@
 [
     {
+        "title": "Edie homepage",
+        "desc": "Devchallenges.io challenge.",
+        "source": "https://devchallenges.io/challenges/xobQBuf8zWWmiYMIAZe0",
+        "img": "https://devchallenges.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fdevchallenges-1234.appspot.com%2Fo%2FchallengesDesigns%252FEdieHomageThumbnail.png%3Falt%3Dmedia%26token%3D72c573b5-6389-425c-b947-de63f0f5b2ef&w=750&q=75",
+        "technology": [
+            "HTML5",
+            "CSS3",
+            "JS"
+        ],
+        "sourceCode": "https://github.com/ndemir9/devchallenges.io-edie-homepage",
+        "demo": "https://ndemir9.github.io/devchallenges.io-edie-homepage/"
+    },
+    {
         "title": "QR code component",
         "desc": "Frontend Mentor challenge.",
         "source": "https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H",
