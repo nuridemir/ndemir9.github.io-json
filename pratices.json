@@ -1,5 +1,17 @@
 [
     {
+        "title": "Checkout Page",
+        "desc": "A figma file we use to practice HTML5, CSS3",
+        "technology": [
+            "HTML5",
+            "CSS3"
+        ],
+        "img": "https://user-images.githubusercontent.com/73329877/261099903-12de9cb8-ba6c-44bb-a776-8e5b4b32c68e.png",
+        "sourceCode": "https://github.com/ndemir9/devchallenges.io-checkout-page",
+        "demo": "https://ndemir9.github.io/devchallenges.io-checkout-page/",
+        "source": "https://devchallenges.io/challenges/0J1NxxGhOUYVqihwegfO"
+    },
+    {
         "title": "My Team Page",
         "desc": "A figma file we use to practice HTML5, CSS3",
         "technology": [
