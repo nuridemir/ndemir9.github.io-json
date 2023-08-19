@@ -3,7 +3,7 @@
         "title": "React ve Tailwind CSS ile Dark Mod Rehberi 2023",
         "desc": "React ile TailwindCSS kullanarak çok basit bir şekilde “Dark Mode” yapacağız.",
         "tags": [
-            "React.js,",
+            "React",
             "TailwindCSS",
             "Dark mode",
             "Vitejs"

@@ -3,7 +3,7 @@
         "title": "Valorant Ability Puzzle",
         "desc": "The test where we try to find the abilities of the characters in valorant (computer game).",
         "tags": [
-            "React.js"
+            "React"
         ],
         "source": "https://valorant-api.com/",
         "sourceCode": "https://github.com/ndemir9/valorant-ability-puzzle",

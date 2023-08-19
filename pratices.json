@@ -3,7 +3,7 @@
         "title": "Portfolio",
         "desc": "A figma file we use to practice React.js",
         "tags": [
-            "React.js",
+            "React",
             "Tailwind CSS"
         ],
         "img": "https://user-images.githubusercontent.com/73329877/261627470-906097f8-1b8e-4742-9674-b8fa33c88453.png",
@@ -90,7 +90,7 @@
         "source": "https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY",
         "img": "https://user-images.githubusercontent.com/73329877/247980075-981df91b-327b-4b90-806a-eb5ff1c4b2c7.png",
         "tags": [
-            "React.js"
+            "React"
         ],
         "sourceCode": "https://github.com/ndemir9/button-components",
         "demo": "https://clever-croissant-7f2318.netlify.app/"
