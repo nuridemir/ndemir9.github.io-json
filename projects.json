@@ -2,7 +2,7 @@
     {
         "title": "Valorant Ability Puzzle",
         "desc": "The test where we try to find the abilities of the characters in valorant (computer game).",
-        "technology": [
+        "tags": [
             "React.js"
         ],
         "source": "https://valorant-api.com/",
